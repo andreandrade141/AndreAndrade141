@@ -1,6 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreAndrade141&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=andreandrade141" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAndrade141&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreandrade141&layout=compact" />
 </a>
