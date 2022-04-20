@@ -1,6 +1,1 @@
-- 👋 Olá! Meu nome é André Andrade
-- 👀 Sou Apaixonado pela Tecnologia! Principalmente nas áreas de IA, Web, Hacking e tudo relacionado à Arduino!
-- 🌱 Estou cursando Engenharia da Computação na FHO|Uniararas, e trabalho na Napp Solutions.
-
-
-
+[![AndreAndrade141's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreAndrade141)](https://github.com/anuraghazra/github-readme-stats)
